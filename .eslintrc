@@ -1,0 +1,11 @@
+{
+    "extends": [
+        "wesbos"
+    ],
+    "rules": {
+        "no-nested-ternary": "off",
+        "no-use-before-define": "off",
+        "react/prop-types": 0,
+        "global-require": "off"
+    }
+}
